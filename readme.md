@@ -41,3 +41,5 @@ git branch alien-plot --> creates new branch "alien-plot"
 git branch --> shows all branch
 
 git checkout alien-plot --> switch to alien-plot branch
+
+git merge "name-of-branch"  
