@@ -43,3 +43,6 @@ git branch --> shows all branch
 git checkout alien-plot --> switch to alien-plot branch
 
 git merge "name-of-branch"  
+
+---------Forking and Pull requests-----------------------
+
