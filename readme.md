@@ -23,6 +23,16 @@ git push -u origin main
 
 ---------------------Gitignore---------------------------
 touch .gitignore
+//add all file to gitignore which is to be hidden
 
 git rm --cached -r .
+
+goto github/gitignore --> they have all node modules which is 
+                          to be ignored
+
+----------------------Cloning-----------------------------
+
+git clone "url"
+
+----------------Branching and merging---------------------
 
