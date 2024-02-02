@@ -46,3 +46,4 @@ git merge "name-of-branch"
 
 ---------Forking and Pull requests-----------------------
 
+fork using github website 
