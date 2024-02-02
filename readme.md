@@ -17,3 +17,12 @@ git diff chapter3.txt
 git checkout chapter3.txt
 
 -------------------------Github and Remote Repo----------
+
+git remote add origin https://github.com/Angela
+git push -u origin main 
+
+---------------------Gitignore---------------------------
+touch .gitignore
+
+git rm --cached -r .
+
